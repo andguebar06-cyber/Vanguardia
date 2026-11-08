@@ -1,0 +1,6 @@
+{
+  "name": "Tienda de Ropa",
+  "description": "Vanguardia: Siempre un paso adelante. Tienda multidepartamento con moda, uniformes deportivos, implementos fitness, oversize de animes y famosos, calzado, belleza, juguetes y hogar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
